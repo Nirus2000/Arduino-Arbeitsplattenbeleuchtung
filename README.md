@@ -1,7 +1,5 @@
-# Arduino-Lichtsteuerung
+# Arduino Arbeitsplattenbeleuchtung
 Lichtsteuerung für Küche
-
-Arbeitsplattenbeleuchtung Steuerung
 
 Dieses Projekt beschreibt die Steuerung einer Arbeitsplattenbeleuchtung mit einer IR-LED, einem IR-Phototransistor und einem Relais, das eine 230V Lampe steuert.
 Funktionsweise
